@@ -1,4 +1,4 @@
-﻿# color-detector-yellow
+
 # Yellow Color Detector 🎨💛
 
 A Python project built during my **#100DaysOfBuildingAI** challenge.  
@@ -20,3 +20,4 @@ This script can detect the **yellow color** in images or live video feeds using 
 
 ```bash
 git clone https://github.com/Valentinetemi/color-detector-yellow.git
+
